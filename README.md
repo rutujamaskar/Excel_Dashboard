@@ -23,6 +23,7 @@ Compare sales across states, months, and demographics.
 
 Provide interactive navigation for better user experience.
 
+
 Key KPIs:
 
 Total Sales: ₹47,72,250.38
@@ -32,6 +33,7 @@ Total Quantity Sold: 1,067 units
 Average Rating: 4 ⭐
 
 Top Brand: Himalaya
+
 
 Visualizations Included:
 
@@ -92,6 +94,7 @@ Trend Analysis
 
 Category & Brand Comparison
 
+
 Dataset Details:
 
 The dataset includes:
@@ -116,6 +119,7 @@ State
 
 Sales Date
 
+
 Key Insights:
 
 Himalaya is the top-selling brand by quantity
@@ -128,6 +132,7 @@ Face care & skincare products dominate sales value
 
 Sales peak during mid-year and festive months.
 
+
 Project Use Case:(endusers)
 
 This dashboard can be used by:
@@ -135,6 +140,7 @@ Sales Managers,
 Marketing Teams,
 Retail Analysts,
 Business Decision Makers.
+
 
 Created By:
 
