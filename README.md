@@ -1,4 +1,4 @@
-<img width="1160" height="474" alt="image" src="https://github.com/user-attachments/assets/e4d9316d-f1cc-42a9-a9df-a81e9ccd3178" /># Excel_Dashboard
+Makeup Products Sales Dashboard (Excel)
 Project Overview
 This project presents an interactive Makeup Products Sales Dashboard built using Microsoft Excel to analyze sales performance, customer behavior, product trends, and brand insights across multiple states in India.
 <img width="1159" height="513" alt="image" src="https://github.com/user-attachments/assets/22b0b68f-a018-4571-a280-d21f45d87a65" />
@@ -14,19 +14,19 @@ Compare sales across states, months, and demographics.
 Provide interactive navigation for better user experience.
 
 Key KPIs:
-Total Sales: ₹47,72,250.38
-Total Quantity Sold: 1,067 units
-Average Rating: 4 ⭐
-Top Brand: Himalaya
+Total Sales: ₹47,72,250.38,
+Total Quantity Sold: 1,067 units,
+Average Rating: 4 ⭐,
+Top Brand: Himalaya,
 
 Visualizations Included:
-Sales by Product (Bar Chart)
-Top 5 Products by Quantity (Donut Chart)
-Sales by Gender (Pie Chart)
-Rating by Skin Type (Column Chart)
-Rating by State (Horizontal Bar Chart)
-Monthly Sales Trend (Line Chart)
-Quantity Sold by Brand (Bar Chart)
+Sales by Product (Bar Chart),
+Top 5 Products by Quantity (Donut Chart),
+Sales by Gender (Pie Chart),
+Rating by Skin Type (Column Chart),
+Rating by State (Horizontal Bar Chart),
+Monthly Sales Trend (Line Chart),
+Quantity Sold by Brand (Bar Chart),
 Top Categories by Price
 
 Interactive Filters / Slicers:
@@ -42,32 +42,32 @@ Category & Brand Comparison
 
 Dataset Details
 The dataset includes:
-Product Name & Category
-Brand
-Price
-Quantity Sold
-Rating
-Gender
-Skin Type
-Usage Frequency
-State
-Sales Date
+Product Name & Category,
+Brand,
+Price,
+Quantity Sold,
+Rating,
+Gender,
+Skin Type,
+Usage Frequency,
+State,
+Sales Date,
 
 Key Insights:
-Himalaya is the top-selling brand by quantity
-Female customers contribute the highest sales share
-Oily skin type products receive the highest ratings
-Face care & skincare products dominate sales value
-Sales peak during mid-year and festive months
+Himalaya is the top-selling brand by quantity,
+Female customers contribute the highest sales share,
+Oily skin type products receive the highest ratings,
+Face care & skincare products dominate sales value,
+Sales peak during mid-year and festive months.
 
 Project Use Case:(endusers)
 This dashboard can be used by:
-Sales Managers
-Marketing Teams
-Retail Analysts
-Business Decision Makers
+Sales Managers,
+Marketing Teams,
+Retail Analysts,
+Business Decision Makers.
 
 Created By:
-Rutuja Maskar
+Rutuja Maskar,
 Aspiring Data Analyst
 Skills: Excel | SQL | Python | Tableau | Power BI
