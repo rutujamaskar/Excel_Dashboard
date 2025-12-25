@@ -11,7 +11,7 @@ This project presents an interactive Makeup Products Sales Dashboard built using
 <img width="1158" height="465" alt="image" src="https://github.com/user-attachments/assets/5cbcf0e1-32f0-4d06-9dde-d9cef48bf5d9" />
 
 
-🎯 Objectives
+🎯 Objectives:
 
 Analyze total sales, quantity sold, and average ratings
 
@@ -25,7 +25,7 @@ Provide interactive navigation for better user experience
 
 
 
-📈 Key KPIs
+📈 Key KPIs:
 
 Total Sales: ₹47,72,250.38
 
@@ -37,7 +37,7 @@ Top Brand: Himalaya
 
 
 
-📊 Visualizations Included
+📊 Visualizations Included:
 
 Sales by Product (Bar Chart)
 
@@ -57,7 +57,7 @@ Top Categories by Price
 
 
 
-🎛 Interactive Filters / Slicers
+🎛 Interactive Filters / Slicers:
 
 📅 Date (Year & Quarter)
 
@@ -68,7 +68,7 @@ Top Categories by Price
 🔄 Usage Frequency (Daily, Weekly, Monthly, Occasional)
 
 
-T🛠 Tools & Technologies Used
+T🛠 Tools & Technologies Used:
 
 Microsoft Excel
 
@@ -100,7 +100,7 @@ Category & Brand Comparison
 
 
 
-📂 Dataset Details
+📂 Dataset Details:
 
 The dataset includes:
 
@@ -126,7 +126,7 @@ Sales Date
 
 (Sample / simulated data used for analysis purposes)
 
-🚀 Key Insights
+🚀 Key Insights:
 
 Himalaya is the top-selling brand by quantity
 
@@ -138,7 +138,7 @@ Face care & skincare products dominate sales value
 
 Sales peak during mid-year and festive months
 
-📌 Project Use Case
+📌 Project Use Case:
 
 This dashboard can be used by:
 
@@ -153,8 +153,10 @@ Business Decision Makers
 
 
 
-👩‍💻 Created By
+👩‍💻 Created By:
 
 Rutuja Maskar
+
 Aspiring Data Analyst
+
 Skills: Excel | SQL | Python | Tableau | Power BI
